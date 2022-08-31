@@ -1,0 +1,22 @@
+{
+  "name": "ZFNetworkManager",
+  "version": "0.1.0",
+  "summary": "A short description of ZFNetworkManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zengfei/ZFNetworkManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zengfei": "zengfei@zepp.com"
+  },
+  "source": {
+    "git": "https://github.com/zengfei/ZFNetworkManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ZFNetworkManager/Classes/**/*"
+}
